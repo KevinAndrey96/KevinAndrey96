@@ -77,6 +77,26 @@ IaC             AWS CDK · CloudFormation
 
 ---
 
+### 📚 Open Source Technical Guides & Datasets
+
+| Repository | Domain / Focus | Key Highlights |
+| :--- | :--- | :--- |
+| **[ciudades-colombia-json](https://github.com/KevinAndrey96/ciudades-colombia-json)** | JSON · SQL · Open Data | Complete open dataset of all 32 departments and 1,104 municipalities of Colombia (minified, flat, SQL dump) with integration code for TypeScript, React, Python, and Laravel. |
+| **[dynamo-battle-royale](https://github.com/KevinAndrey96/dynamo-battle-royale)** | DynamoDB · Python · Boto3 | Comprehensive NoSQL Single-Table Design architectural guide detailing sparse indexes, conditional writes, and relational modeling without JOINs. |
+| **[patron-proxy](https://github.com/KevinAndrey96/patron-proxy)** | Java · GoF Design Patterns | Gang of Four (GoF) Structural Proxy pattern guide: virtual proxy lazy loading, smart references, and access control with UML sequence diagrams. |
+| **[seguridad-jaas](https://github.com/KevinAndrey96/seguridad-jaas)** | Java EE · Web Security · RBAC | Enterprise Java EE Web Security guide: form-based declarative authentication, JAAS realm integration, and Role-Based Access Control (RBAC). |
+| **[react-tuto](https://github.com/KevinAndrey96/react-tuto)** | React · JavaScript · State Architecture | In-depth React state management guide: state immutability, lifting state up, controlled components, and time-travel debugging. |
+| **[angular-tuto](https://github.com/KevinAndrey96/angular-tuto)** | Angular · TypeScript · RxJS | Enterprise Angular architecture guide: Dependency Injection (DI), RxJS reactive streams (`debounceTime`, `switchMap`), and declarative SPA routing. |
+| **[aprendiendo-node](https://github.com/KevinAndrey96/aprendiendo-node)** | Node.js · Express · EJS | Node.js & Express backend architecture guide: middleware pipeline (*Chain of Responsibility*), RESTful routing, and SSR with EJS templates. |
+| **[basic-exercises-using-python](https://github.com/KevinAndrey96/basic-exercises-using-python)** | Python · Algorithms · DIAN | Algorithmic problem solving: Colombian DIAN NIT verification digit calculator (Modulo 11), 2D cardinal Finite State Machine (FSM), and automated unit tests. |
+| **[nests](https://github.com/KevinAndrey96/nests)** | Python · Greedy Algorithms | Greedy spatial allocation algorithm: iterative midpoint occupation of the longest contiguous unoccupied run with unit tests and complexity analysis. |
+| **[hello-world-adonis](https://github.com/KevinAndrey96/hello-world-adonis)** | AdonisJS · Lucid ORM · Node.js | AdonisJS v4 MVC architectural reference: IoC container, service providers, Lucid ORM migrations, and Ace CLI tooling. |
+| **[tutorial-devise-auth-tokens](https://github.com/KevinAndrey96/tutorial-devise-auth-tokens)** | Ruby on Rails · Devise · Security | Ruby on Rails user authentication architecture guide with the Devise gem and security filters. |
+
+---
+
+### 💼 Professional Experience
+
 | Company | Role | Period | Highlights |
 | :--- | :--- | :--- | :--- |
 | **Modak** (US Fintech) | Senior Backend Engineer | 2023 – Present | Core user & financial platform for 250K+ users. Go, AWS Serverless, KYC/IAM, ledger reconciliation, zero-fault money movement. |
