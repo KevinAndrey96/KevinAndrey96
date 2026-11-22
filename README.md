@@ -108,6 +108,21 @@ IaC             AWS CDK · CloudFormation
 
 ---
 
+### 🌐 Turnkey Web & WordPress Production Templates
+
+| Template / Repository | Technology Stack | Architecture & Use Case |
+| :--- | :--- | :--- |
+| **[ufun](https://github.com/KevinAndrey96/ufun)** | WordPress · WooCommerce · Betheme · Docker | **Turnkey WordPress & WooCommerce E-Commerce Store Template.** Full-featured online storefront with shopping cart, responsive product catalog, Slider Revolution hero banners, Contact Form 7, and automated Docker Compose MariaDB initialization. |
+| **[admin-t](https://github.com/KevinAndrey96/admin-t)** | PHP 8.x · Bootstrap · PDO · Docker | **WordPress & WooCommerce Standalone Fast Admin Dashboard.** High-performance standalone backoffice for store operators to manage products, catalog prices, images, and customer orders directly via SQL without WP-Admin overhead. |
+| **[alcurnia360](https://github.com/KevinAndrey96/alcurnia360)** | WordPress · Betheme · Slider Revolution · Docker | **Turnkey WordPress Tourism & Travel Benefit Club Portal Template.** Complete vacation club portal with destination showcase, member benefit tiers, corporate alliances catalog, and automated Docker Compose orchestration. |
+| **[kit-web](https://github.com/KevinAndrey96/kit-web)** | WordPress · Betheme · Slider Revolution · Docker | **Turnkey WordPress Corporate Business & Agency Starter Template.** Enterprise scaffolding for digital agencies, software consultancies, and professional service providers with Betheme layouts, animated banners, and lead capture. |
+| **[ansftranslations](https://github.com/KevinAndrey96/ansftranslations)** | PHP · Bootstrap · PHPMailer · Docker | **Turnkey Multilingual Corporate & Translation Agency Template.** Bilingual corporate portal (ES/EN) featuring automatic browser language routing, certified service catalogs, and quotation request forms with document attachments. |
+| **[modeleine-web](https://github.com/KevinAndrey96/modeleine-web)** | PHP · MySQL · Bootstrap · Docker | **Turnkey Talent & Casting Marketplace Web Platform Template.** Three-sided marketplace architecture uniting Model/Talent dashboards, Employer/Client casting management, and an administrative hub with tiered pricing and job postings. |
+| **[puav-fempower](https://github.com/KevinAndrey96/puav-fempower)** | PHP · MariaDB · Bootstrap · Docker | **Turnkey Recruitment & Employability Web Portal Template.** Comprehensive employment platform featuring interactive candidate resume builders (education, work experience, references) and recruiter vacancy management with automated MariaDB seeding. |
+| **[proto](https://github.com/KevinAndrey96/proto)** | PHP · MariaDB · Bootstrap · Docker | **Turnkey Promotional Sweepstakes & Code Verification Template.** Consumer promotional marketing portal with real-time promo code validation, animated celebratory prize reveal modals, and participant onboarding. |
+
+---
+
 ### 💼 Professional Experience
 
 | Company | Role | Period | Highlights |
