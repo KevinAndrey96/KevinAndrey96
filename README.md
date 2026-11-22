@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%F0%9F%87%A8%F0%9F%87%B4;Software+Architect+%E2%80%94+Go+%26+AWS+Serverless;Fintech+%7C+Distributed+Systems+%7C+AI+Tooling;Building+resilient+systems+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%F0%9F%87%A8%F0%9F%87%B4;Software+Architect+|+Go+%26+AWS+Serverless;Fintech+%7C+Distributed+Systems+%7C+Event-Driven;Building+resilient+systems+at+scale)](https://git.io/typing-svg)
 
 <h1>Kevin Andrey Herrera Silva</h1>
 <h3>Senior Backend Engineer & Software Architect</h3>
@@ -30,7 +30,7 @@ At **Modak** (US-based family banking fintech), I architected the core transacti
 - ✅ **sub-120ms p99 latency** across event-driven microservices
 - ✅ **Zero-loss ledger reconciliation** and idempotent money movement
 
-I treat AI as a fundamental engineering utility — I orchestrate advanced agents and tool protocols (Claude Code, Cursor, MCP) daily as a **technical orchestrator**, accelerating feature delivery without compromising architectural rigor or test coverage.
+I maintain high engineering standards by combining modern tooling, automated verification pipelines, and clean architecture, accelerating delivery while ensuring high test coverage, deterministic behavior, and production reliability.
 
 ---
 
@@ -103,27 +103,27 @@ IaC             AWS CDK · CloudFormation
 
 | Company | Role | Period | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Modak** (US Fintech) | Senior Backend Engineer | 2023 – Present | Core user & financial platform for 250K+ users. Go, AWS Serverless, KYC/IAM, ledger reconciliation, zero-fault money movement. |
-| **Merqueo** (Retail Tech) | Technical Leader | 2021 – 2023 | High-concurrency retail engine across CO, MX, BR. Zero downtime during peak traffic. ELK observability rollout. |
-| **AB InBev** (Global FMCG) | Senior Backend Developer | 2020 – 2021 | Cloud-native microservices in Go & Python for global commercial operations. |
-| **Instance Shape SAS** | Technical Leader | 2018 – 2020 | End-to-end solutions architecture, AWS cloud deployments, multi-client delivery. |
-| **Dual Branding Studio** | Software Developer | 2016 – 2018 | Full-stack web & mobile apps (Java, Kotlin, VueJS). |
+| **Modak** (US Fintech) | Senior Backend Engineer | 2023 - Present | Core user & financial platform for 250K+ users. Go, AWS Serverless, KYC/IAM, ledger reconciliation, zero-fault money movement. |
+| **Merqueo** (Retail Tech) | Technical Leader | 2021 - 2023 | High-concurrency retail engine across CO, MX, BR. Zero downtime during peak traffic. ELK observability rollout. |
+| **AB InBev** (Global FMCG) | Senior Backend Developer | 2020 - 2021 | Cloud-native microservices in Go & Python for global commercial operations. |
+| **Instance Shape SAS** | Technical Leader | 2018 - 2020 | End-to-end solutions architecture, AWS cloud deployments, multi-client delivery. |
+| **Dual Branding Studio** | Software Developer | 2016 - 2018 | Full-stack web & mobile apps (Java, Kotlin, VueJS). |
 
 ---
 
 ### 🎓 Education & Honors
 
 **Universidad Nacional de Colombia**
-B.S. in Systems and Computer Engineering · 2017 – 2022
+B.S. in Systems and Computer Engineering (2017 - 2022)
 
 **Universidad Distrital Francisco José de Caldas**
-A.S. in Data Systematization Technology · 2013 – 2017 · *Meritorious Thesis*
+A.S. in Data Systematization Technology (2013 - 2017) · *Meritorious Thesis*
 
 <br>
 
-🏅 **Top 1% Bogotá · Top 2% Colombia** — Saber PRO National Exam (2020)
-🏅 **Top 1% Bogotá · Top 2% Colombia** — Saber TyT National Exam (2016)
-🏅 **Top 5.5% Nationally** — Saber 11 (2012)
+🏅 **Top 1% Bogotá · Top 2% Colombia** | Saber PRO National Exam (2020)
+🏅 **Top 1% Bogotá · Top 2% Colombia** | Saber TyT National Exam (2016)
+🏅 **Top 5.5% Nationally** | Saber 11 (2012)
 
 ---
 
@@ -131,16 +131,16 @@ A.S. in Data Systematization Technology · 2013 – 2017 · *Meritorious Thesis*
 
 ```
  ┌─────────────────────────────────────────────────────────────────┐
- │  Speed without stability is a liability — especially in fintech.│
- │  I maintain a strict human-in-the-loop philosophy ensuring      │
- │  robust tests and deterministic logic at every layer.           │
+ │  Speed without stability is a liability, especially in fintech. │
+ │  Strict architectural discipline, exhaustive automated tests,   │
+ │  and deterministic logic across every layer.                    │
  └─────────────────────────────────────────────────────────────────┘
 ```
 
-- **Domain-Driven Design** — Bounded contexts, aggregates, and event sourcing for complex business domains
-- **Zero-Fault Financial Systems** — Ledger reconciliation, idempotent operations, saga patterns
-- **Observability-First** — Proactive alerting, distributed tracing, and RED metrics in production
-- **AI as Infrastructure** — Agent orchestration as a multiplier, never a replacement for engineering judgment
+- **Domain-Driven Design**: Bounded contexts, aggregates, and event sourcing for complex business domains
+- **Zero-Fault Financial Systems**: Ledger reconciliation, idempotent operations, and saga patterns
+- **Observability-First**: Proactive alerting, distributed tracing, and RED metrics in production
+- **Resilient Distributed Systems**: Fault tolerance, decoupled event streams, and graceful degradation
 
 ---
 
@@ -149,7 +149,7 @@ A.S. in Data Systematization Technology · 2013 – 2017 · *Meritorious Thesis*
 | Language | Level |
 | :--- | :--- |
 | 🇨🇴 Spanish | Native |
-| 🇺🇸 English | Full Professional — 4+ years daily with US & international teams |
+| 🇺🇸 English | Full Professional (4+ years daily with US and international teams) |
 | 🇧🇷 Portuguese | Professional Working Proficiency |
 
 ---
