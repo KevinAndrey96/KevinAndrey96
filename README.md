@@ -65,7 +65,18 @@ IaC             AWS CDK · CloudFormation
 
 ---
 
-### 💼 Experience
+### 🚀 Featured Architecture & Engineering Showcases
+
+| Project | Tech Stack | Architecture & Key Highlights |
+| :--- | :--- | :--- |
+| **[go-serverless-events-api](https://github.com/KevinAndrey96/go-serverless-events-api)** | Go · AWS Lambda · DynamoDB · Serverless | Enterprise event lifecycle platform. DynamoDB single-table design (`sk-index`, `eventid-index`), scheduled TLS SMTP reminder worker, domain packages (`pkg/models`, `pkg/response`, `pkg/config`), and unit tests. |
+| **[events-portal-web](https://github.com/KevinAndrey96/events-portal-web)** | Laravel 9 · Vite · Instascan.js · DomPDF | Full-stack event portal with live camera QR entrance scanner, automated PDF pass generation with dynamic vector QR codes, and hexagonal Clean Architecture. |
+| **[go-serverless-notification-rate-limiter](https://github.com/KevinAndrey96/go-serverless-notification-rate-limiter)** | Go · AWS Lambda · DynamoDB · SES | Enterprise-grade event-driven notification rate limiter microservice using Clean Architecture, DynamoDB conditional expressions, and SES delivery. |
+| **[go-serverless-calendar-overlap](https://github.com/KevinAndrey96/go-serverless-calendar-overlap)** | Go · AWS Lambda · Google Wire · Concurrency | Concurrent double-booking & calendar interval collision detector with goroutines, mutex synchronization, and compile-time dependency injection. |
+| **[adonisjs-cart-pricing-evaluator](https://github.com/KevinAndrey96/adonisjs-cart-pricing-evaluator)** | Node.js · AdonisJS · Docker · MySQL | High-concurrency cart pricing & fulfillment evaluation engine with complex business rules, multi-warehouse allocation, and full containerization. |
+| **[laravel-vue-warehouse-management](https://github.com/KevinAndrey96/laravel-vue-warehouse-management)** | Laravel · Vue.js · MySQL · Postman | Full-stack warehouse inventory management system with decoupled REST API, Vue SPA frontend, role-based auth, and automated collection. |
+
+---
 
 | Company | Role | Period | Highlights |
 | :--- | :--- | :--- | :--- |
