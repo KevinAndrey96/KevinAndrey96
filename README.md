@@ -123,6 +123,29 @@ IaC             AWS CDK · CloudFormation
 
 ---
 
+### 🔬 Academic Foundations, Numerical Methods & Cryptography
+
+| Repository | Domain / Focus | Key Highlights |
+| :--- | :--- | :--- |
+| **[newton-sistema-ecuaciones](https://github.com/KevinAndrey96/newton-sistema-ecuaciones)** | Python · NumPy · Numerical Methods | Multidimensional Newton-Raphson non-linear system solver using explicit Jacobian matrices and matrix inversion. |
+| **[simpson](https://github.com/KevinAndrey96/simpson)** | MATLAB / GNU Octave · Calculus | Composite Simpson's 1/3 numerical quadrature rule with analytical validation and absolute/relative error analysis. |
+| **[newton-raphson](https://github.com/KevinAndrey96/newton-raphson)** | MATLAB / GNU Octave · Root Finding | Iterative scalar Newton-Raphson root finder with central finite difference derivatives and strict residual tolerance. |
+| **[derivada-matlab](https://github.com/KevinAndrey96/derivada-matlab)** | MATLAB / GNU Octave · Finite Differences | Higher-order (4th order) central difference numerical differentiation with machine epsilon optimal step size analysis. |
+| **[aes-files](https://github.com/KevinAndrey96/aes-files)** | Python · Cryptography · AES-CTR | Symmetric binary file encryption and decryption tool using AES in Counter mode (128, 192, 256 bits) with Base64. |
+| **[des-files](https://github.com/KevinAndrey96/des-files)** | Python · Cryptography · DES-CBC | Educational Data Encryption Standard (DES) file encryption with CBC mode, 64-bit blocks, IV, and PKCS#5 padding. |
+| **[hill-cipher](https://github.com/KevinAndrey96/hill-cipher)** | Python · NumPy · Linear Algebra | Classical 2x2 Hill polyalphabetic cipher with modular matrix inversion, coprimality validation, and extended Euclidean algorithm. |
+| **[turning-grille-algorithm](https://github.com/KevinAndrey96/turning-grille-algorithm)** | Python · NumPy · Transposition | Fleissner turning grille transposition cipher with NxN matrices and 90-degree clockwise and counter-clockwise rotations. |
+| **[vigenere](https://github.com/KevinAndrey96/vigenere)** | Python · NumPy · Classical Ciphers | Polyalphabetic Vigenère cipher engine utilizing dynamic 26x26 Tabula Recta matrix lookups and repeated keys. |
+| **[playfair](https://github.com/KevinAndrey96/playfair)** | Python · NumPy · Digram Substitution | Classical 5x5 Playfair digram substitution cipher with dynamic key matrix construction and geometric shift rules. |
+| **[teoria-de-la-inf](https://github.com/KevinAndrey96/teoria-de-la-inf)** | MATLAB / GNU Octave · Signal Processing | Information theory and DSP labs: rectangular pulse Fourier/FFT spectral analysis, and PCM sampling/quantization/coding. |
+| **[crypto](https://github.com/KevinAndrey96/crypto)** | C# · .NET · Constraint Satisfaction | Cryptarithmetic alphametic puzzle solver for long division with constraint pruning and unique digit deductions. |
+| **[artificial-intelligence](https://github.com/KevinAndrey96/artificial-intelligence)** | Python · HackerRank · Bot Building | Autonomous grid-world AI agents for HackerRank Bot Building: Manhattan distance pathfinding and reactive cleaning agents. |
+| **[algoritmos1](https://github.com/KevinAndrey96/algoritmos1)** | Java · Competitive Programming | Solutions to classic competitive programming challenges (UVa 11661 Burger Time, Common Subsequence, Informants logic). |
+| **[arreglos-andes](https://github.com/KevinAndrey96/arreglos-andes)** | Java · Algorithms · Two Sum | Two-Sum pair search in integer arrays comparing brute-force O(n^2), two-pointers O(n log n), and hash table O(n). |
+| **[mailer-php](https://github.com/KevinAndrey96/mailer-php)** | PHP · PHPMailer · SMTP | Modular transactional email dispatcher supporting authenticated SMTP (TLS/SSL), HTML templates, and AJAX/cURL integration. |
+
+---
+
 ### 💼 Professional Experience
 
 | Company | Role | Period | Highlights |
