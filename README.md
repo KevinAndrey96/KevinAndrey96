@@ -143,6 +143,7 @@ IaC             AWS CDK · CloudFormation
 
 | Repository | Domain / Focus | Key Highlights |
 | :--- | :--- | :--- |
+| **[simulated-annealing-metaheuristic-optimizer-java](https://github.com/KevinAndrey96/simulated-annealing-metaheuristic-optimizer-java)** | Java 8-21 · Metaheuristics · Optimization | Enterprise Simulated Annealing engine with Geometric, Linear, Logarithmic, and Exponential cooling schedules, Metropolis-Hastings physics, constrained linear programming, Rastrigin/Rosenbrock/Ackley/Sphere benchmarks, CLI, and Swing dashboard. |
 | **[newton-sistema-ecuaciones](https://github.com/KevinAndrey96/newton-sistema-ecuaciones)** | Python · NumPy · Numerical Methods | Multidimensional Newton-Raphson non-linear system solver using explicit Jacobian matrices and matrix inversion. |
 | **[simpson](https://github.com/KevinAndrey96/simpson)** | MATLAB / GNU Octave · Calculus | Composite Simpson's 1/3 numerical quadrature rule with analytical validation and absolute/relative error analysis. |
 | **[newton-raphson](https://github.com/KevinAndrey96/newton-raphson)** | MATLAB / GNU Octave · Root Finding | Iterative scalar Newton-Raphson root finder with central finite difference derivatives and strict residual tolerance. |
