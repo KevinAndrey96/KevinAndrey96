@@ -122,6 +122,7 @@ IaC             AWS CDK · CloudFormation
 | **[python-greedy-spatial-allocation](https://github.com/KevinAndrey96/python-greedy-spatial-allocation)** | Python · Greedy Algorithms · Systems | Greedy spatial allocation algorithm: iterative midpoint placement across the longest contiguous unoccupied run with complexity analysis and unit tests. |
 | **[adonisjs-mvc-architecture](https://github.com/KevinAndrey96/adonisjs-mvc-architecture)** | AdonisJS · Lucid ORM · Node.js | AdonisJS v4 MVC architectural reference: IoC container, service providers, Lucid ORM migrations, and Ace CLI tooling. |
 | **[rails-devise-auth-guide](https://github.com/KevinAndrey96/rails-devise-auth-guide)** | Ruby on Rails · Devise · Security | Ruby on Rails user authentication architecture guide with the Devise gem and security filters. |
+| **[php-clean-architecture-customer-crud](https://github.com/KevinAndrey96/php-clean-architecture-customer-crud)** | PHP 8.2+ · PDO · MySQL 8.4 · Docker | Legacy-to-Clean-Architecture migration reference: a 2017 procedural CRUD rebuilt as framework-free layers with DIAN NIT check digit value objects, a portable PDO repository verified on MySQL and SQLite, CSRF, XSS escaping, CSP, PHPStan at level max, 85 tests and a 5-job CI. |
 
 ---
 
